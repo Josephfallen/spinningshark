@@ -1,8 +1,4 @@
-Below is an example of a complete `README.md` file for your project:
 
----
-
-```markdown
 # Spinningshark
 
 **Spinningshark** is a fun CLI tool that displays a full-color ASCII art animation of the iconic IKEA Blåhaj shark directly in your terminal. Perfect for adding a touch of whimsy to your command line!
@@ -41,7 +37,7 @@ This project converts a shark GIF into a series of image frames and then uses [c
 Clone the project from GitHub:
 
 ```bash
-git clone https://github.com/yourusername/spinningshark.git
+git clone https://github.com/Josephfallen/spinningshark.git
 cd spinningshark
 ```
 
@@ -120,4 +116,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - **IKEA** – For the Blåhaj inspiration.
 - The developers of [chafa](https://github.com/hackerb9/chafa) and [ImageMagick](https://imagemagick.org/) for their fantastic tools.
-```
+
